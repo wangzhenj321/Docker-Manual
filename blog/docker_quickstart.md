@@ -37,7 +37,7 @@ The `node-bulletin-board` project is a simple bulletin board application, writte
 
 Take a look at the file called `Dockerfile` in the bulletin board application. Dockerfiles describe how to assemble a private filesystem for a container, and can also contain some metadata describing how to run a container based on this image. The bulletin board app Dockerfile looks like this:
 
-```
+```Dockerfile
 # Use the official image as a parent image.
 FROM node:current-slim
 
