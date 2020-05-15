@@ -22,4 +22,8 @@ By contrast, a virtual machine (VM) runs a full-blown "guest" operating system w
 
 # Part 2: Build and run your image
 
+## Set up
+
+Let us download an example project from the Docker Samples page.
+
 # Part 3: Share images on Docker Hub
