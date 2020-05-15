@@ -14,7 +14,7 @@ A container runs natively on Linux and shares the kernel of the host machine wit
 
 By contrast, a virtual machine (VM) runs a full-blown "guest" operating system with virtual access to host resources through a hypervisor. In general, VMs incur a lot of overhead beyond what is being consumed by your application logic.
 
-<>
+<img src="../img/docker_quickstart/Container@2x.png" width="45%"> <img src="../img/docker_quickstart/VM@2x.png" width="45%">
 
 ## References
 
@@ -134,4 +134,6 @@ Now let’s make our first repo, and share our bulletin board app there.
     
     Visit your repository in Docker Hub, and you’ll see your new image there. Remember, Docker Hub repositories are public by default.
 
+## References
 
+1. [Share images on Docker Hub](https://docs.docker.com/get-started/part3/)
