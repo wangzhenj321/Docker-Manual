@@ -14,7 +14,7 @@ A container runs natively on Linux and shares the kernel of the host machine wit
 
 By contrast, a virtual machine (VM) runs a full-blown "guest" operating system with virtual access to host resources through a hypervisor. In general, VMs incur a lot of overhead beyond what is being consumed by your application logic.
 
-<img src="../img/docker_quickstart/Container@2x.png" width="45%"> <img src="../img/docker_quickstart/VM@2x.png" width="45%">
+<img src="../../../../img/docker_quickstart/Container@2x.png" width="45%"> <img src="../../../../img/docker_quickstart/VM@2x.png" width="45%">
 
 ## References
 
