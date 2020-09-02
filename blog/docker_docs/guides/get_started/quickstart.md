@@ -96,7 +96,7 @@ You’ll see Docker step through each instruction in your Dockerfile, building u
     docker run --publish 8000:8080 --detach --name bb bulletinboard:1.0
     ```
 
-2. Visit your application in a browser at `ocalhost:8000` You should see your bulletin board application up and running.
+2. Visit your application in a browser at `localhost:8000` You should see your bulletin board application up and running.
 
 3. Once you’re satisfied that your bulletin board container works correctly, you can delete it:
 
