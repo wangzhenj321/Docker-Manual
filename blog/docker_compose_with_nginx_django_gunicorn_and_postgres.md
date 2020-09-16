@@ -1,6 +1,6 @@
-<img src="../../img/docker_docs/docker_compose_with_nginx_django_gunicorn_and_postgres/structure_of_nginx_gunicorn_and_django.png">
+<img src="../img/docker_compose_with_nginx_django_gunicorn_and_postgres/structure_of_nginx_gunicorn_and_django.png">
 
-<img src="../../img/docker_docs/docker_compose_with_nginx_django_gunicorn_and_postgres/structure_of_nginx_gunicorn_django_and_postgres.png">
+<img src="../img/docker_compose_with_nginx_django_gunicorn_and_postgres/structure_of_nginx_gunicorn_django_and_postgres.png">
 
 1. https://pawamoy.github.io/posts/docker-compose-django-postgres-nginx/#overview-to-get-a-better-understanding-of-the-whole-thing
 2. https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
