@@ -1,3 +1,13 @@
+**Table of contents**
+
+- [Step 1: Setup](#step-1-setup)
+- [Step 2: Create a Dockerfile](#step-2-create-a-dockerfile)
+- [Step 3: Define services in a Compose file](#step-3-define-services-in-a-compose-file)
+- [Step 4: Build and run your app with Compose](#step-4-build-and-run-your-app-with-compose)
+- [Step 5: Edit the Compose file to add a bind mount](#step-5-edit-the-compose-file-to-add-a-bind-mount)
+- [Step 6: Re-build and run the app with Compose](#step-6-re-build-and-run-the-app-with-compose)
+- [Step 7: Update the application](#step-7-update-the-application)
+
 ## Step 1: Setup
 
 1. Create a directory for the project:
