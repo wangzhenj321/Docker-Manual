@@ -1,4 +1,4 @@
-- `docker-compose down [options]`
+- **`docker-compose down [options]`**
 
     Stops containers and removes containers, networks, volumes, and images created by `up`.
 
