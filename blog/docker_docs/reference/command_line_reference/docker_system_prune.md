@@ -10,6 +10,6 @@ Remove all unused containers, networks, images (both dangling and unused), and o
 
 | Option | Default | Description |
 | :--- | :--- | :--- |
-| `-a, --all` | Remove all unused images not just dangling ones |
-| `-f, --force` | Do not prompt for confirmation |
-| `--volumes` | Prune anonymous volumes |
+| `-a, --all` |  | Remove all unused images not just dangling ones |
+| `-f, --force` |  | Do not prompt for confirmation |
+| `--volumes` |  | Prune anonymous volumes |
